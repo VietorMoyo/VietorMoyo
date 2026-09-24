@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/VietorMoyo">
-    <img src="./vicmoyo-removebg-preview (4).png" alt="Victor Moyo" />
+    <img src="./vicmoyo.png" alt="Victor Moyo" />
   </a>
 </p>
 
